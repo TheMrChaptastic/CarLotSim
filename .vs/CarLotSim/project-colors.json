@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4d0e5800-8d72-435e-967f-e466cd3f8385": {
+      "ProjectGuid": "4d0e5800-8d72-435e-967f-e466cd3f8385",
+      "DisplayName": "CarLotSim",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

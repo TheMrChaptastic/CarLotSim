@@ -1,0 +1,14 @@
+C:\Users\Chappy\source\repos\TrueCoders Projects\CarLotSim\CarLotSim\bin\Debug\netcoreapp3.1\CarLotSim.exe
+C:\Users\Chappy\source\repos\TrueCoders Projects\CarLotSim\CarLotSim\bin\Debug\netcoreapp3.1\CarLotSim.deps.json
+C:\Users\Chappy\source\repos\TrueCoders Projects\CarLotSim\CarLotSim\bin\Debug\netcoreapp3.1\CarLotSim.runtimeconfig.json
+C:\Users\Chappy\source\repos\TrueCoders Projects\CarLotSim\CarLotSim\bin\Debug\netcoreapp3.1\CarLotSim.runtimeconfig.dev.json
+C:\Users\Chappy\source\repos\TrueCoders Projects\CarLotSim\CarLotSim\bin\Debug\netcoreapp3.1\CarLotSim.dll
+C:\Users\Chappy\source\repos\TrueCoders Projects\CarLotSim\CarLotSim\bin\Debug\netcoreapp3.1\CarLotSim.pdb
+C:\Users\Chappy\source\repos\TrueCoders Projects\CarLotSim\CarLotSim\obj\Debug\netcoreapp3.1\CarLotSim.csproj.AssemblyReference.cache
+C:\Users\Chappy\source\repos\TrueCoders Projects\CarLotSim\CarLotSim\obj\Debug\netcoreapp3.1\CarLotSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chappy\source\repos\TrueCoders Projects\CarLotSim\CarLotSim\obj\Debug\netcoreapp3.1\CarLotSim.AssemblyInfoInputs.cache
+C:\Users\Chappy\source\repos\TrueCoders Projects\CarLotSim\CarLotSim\obj\Debug\netcoreapp3.1\CarLotSim.AssemblyInfo.cs
+C:\Users\Chappy\source\repos\TrueCoders Projects\CarLotSim\CarLotSim\obj\Debug\netcoreapp3.1\CarLotSim.csproj.CoreCompileInputs.cache
+C:\Users\Chappy\source\repos\TrueCoders Projects\CarLotSim\CarLotSim\obj\Debug\netcoreapp3.1\CarLotSim.dll
+C:\Users\Chappy\source\repos\TrueCoders Projects\CarLotSim\CarLotSim\obj\Debug\netcoreapp3.1\CarLotSim.pdb
+C:\Users\Chappy\source\repos\TrueCoders Projects\CarLotSim\CarLotSim\obj\Debug\netcoreapp3.1\CarLotSim.genruntimeconfig.cache
